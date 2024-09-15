@@ -1,7 +1,7 @@
 # ¡Hola, soy Victor 👋!
 
 ## 🚀 Sobre mí
-👨‍💻 Soy desarrollador en proceso, aprendiendo **Python** y explorando el mundo del desarrollo. Mi objetivo es construir aplicaciones y soluciones efectivas usando Python.
+👨‍💻 Soy desarrollador en proceso, aprendiendo **Python** y explorando el mundo del desarrollo. Mi objetivo es construir aplicaciones y soluciones efectivas usando este genial lenguaje.
 
 ## 🌱 Actualmente aprendiendo
 - **Python**: Sintaxis básica, estructuras de datos, y programación orientada a objetos.
